@@ -26,4 +26,13 @@ img {
     margin-right: auto;
     width: 50%;
   }
+
+th, td {
+    border: 1px solid black;
+}
+
+th {
+    color: #a14e00;
+    font-size: large;
+}
   
