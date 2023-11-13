@@ -24,7 +24,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    margin-top: 10px;
+    width: 75%;
   }
 
 th, td {
@@ -35,4 +36,13 @@ th {
     color: #a14e00;
     font-size: large;
 }
+
+.flex-parent {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+}
+
   
